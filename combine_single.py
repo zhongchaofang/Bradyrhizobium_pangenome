@@ -14,12 +14,12 @@ for i in os.listdir(path1):
     if os.path.isdir(i):
         continue
     else:
-        if '.single.txt_muscleout' in i:
+        if '.single.txt_278_muscleout' in i:
             document_list.append(i)
         else:
             continue
 def get_samplename(str1):
-    return (str1[0:str1.index('.single.txt_muscleout')])
+    return (str1[0:str1.index('.single.txt_278_muscleout')])
 for item in document_list:
     f = open(item,'r')
     name = get_samplename(item)
