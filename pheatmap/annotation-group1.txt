@@ -1,0 +1,279 @@
+Strain	fix2	group2
+B. acaciae 10BB	nodule	Caesalpinioideae
+B. agreste CNPSo 4010	nodule	Phaseoleae
+B. algeriense RST91	nodule	Genisteae
+B. altum Pear77	nodule	Other Leguminosae
+B. amphicarpaeae 39S1MB	nodule	Glycine max
+B. arachidis CB756	nodule	Other Leguminosae
+B. arachidis CCBAU 051107	nodule	Dalbergieae
+B. arachidis LMG 26795	nodule	Dalbergieae
+B. arachidis USDA 3384	nodule	Phaseoleae
+B. archetypum WSM 1744	nodule	Phaseoleae
+B. australiense WSM 1791	nodule	Other Leguminosae
+B. betae Opo-243	nodule	Other Leguminosae
+B. betae PL7HG1	non-nodule	Non-leguminous
+B. brasilense Arg62	nodule	Genisteae
+B. brasilense Cham227	nodule	Caesalpinioideae
+B. brasilense R5	Unknown	Unknown
+B. brasilense UFLA0613	nodule	Glycine max
+B. cajani 1010	nodule	Phaseoleae
+B. campsiandrae INPA 384B	nodule	Caesalpinioideae
+B. campsiandrae INPA 394B	nodule	Caesalpinioideae
+B. canariense BTA-1	nodule	Genisteae
+B. canariense GAS369	free-living	soil
+B. canariense SZCCT0289	free-living	soil
+B. canariense UBMA050	nodule	Genisteae
+B. canariense UBMA051	nodule	Genisteae
+B. canariense UBMA052	nodule	Genisteae
+B. canariense UBMA060	nodule	Genisteae
+B. canariense UBMA061	nodule	Genisteae
+B. canariense UBMA122	nodule	Genisteae
+B. canariense UBMA171	nodule	Genisteae
+B. canariense UBMA181	nodule	Genisteae
+B. canariense UBMA182	nodule	Genisteae
+B. canariense UBMA183	nodule	Genisteae
+B. canariense UBMA192	nodule	Genisteae
+B. canariense UBMA195	nodule	Genisteae
+B. canariense UBMA510	nodule	Genisteae
+B. canariense UBMAN05	nodule	Genisteae
+B. canariense USDA 3040	Unknown	Other palnt
+B. canariense WSM471	nodule	Other Leguminosae
+B. canariense WU425	nodule	Other Leguminosae
+B. centrolobii BR 10245	nodule	Dalbergieae
+B. cosmicum 58S1	nodule	Glycine max
+B. cosmicum S23321	non-nodule	Phaseoleae
+B. cytisi CTAW11	nodule	Genisteae
+B. daqingense CCBAU 15774	nodule	Glycine max
+B. daqingense CGMCC 1.10947	Unknown	Unknown
+B. denitrificans SZCCT0094	free-living	soil
+B. diazoefficiens 110spc4	nodule	Glycine max
+B. diazoefficiens 113-2	nodule	Glycine max
+B. diazoefficiens 172S4	nodule	Glycine max
+B. diazoefficiens 182_5	nodule	Caesalpinioideae
+B. diazoefficiens 36_1	nodule	Caesalpinioideae
+B. diazoefficiens 38_8	nodule	Caesalpinioideae
+B. diazoefficiens 41_2	nodule	Caesalpinioideae
+B. diazoefficiens 65_7	nodule	Caesalpinioideae
+B. diazoefficiens CB1809	nodule	Other Leguminosae
+B. diazoefficiens CCBAU 41267	nodule	Glycine max
+B. diazoefficiens CPAC 390	nodule	Glycine max
+B. diazoefficiens CPAC 392	nodule	Glycine max
+B. diazoefficiens CPAC 394	nodule	Glycine max
+B. diazoefficiens F07S3	nodule	Glycine max
+B. diazoefficiens H12S4	nodule	Glycine max
+B. diazoefficiens HF08	nodule	Glycine max
+B. diazoefficiens HH15	nodule	Glycine max
+B. diazoefficiens Is-1	nodule	Glycine max
+B. diazoefficiens NK6	nodule	Glycine max
+B. diazoefficiens SEMIA 5080	nodule	Glycine max
+B. diazoefficiens SEMIA 586	Unknown	Unknown
+B. diazoefficiens SZCCT0113	free-living	soil
+B. diazoefficiens SZCCT0122	free-living	soil
+B. diazoefficiens SZCCT0126	free-living	soil
+B. diazoefficiens SZCCT0130	free-living	soil
+B. diazoefficiens SZCCT0132	free-living	soil
+B. diazoefficiens SZCCT0137	free-living	soil
+B. diazoefficiens SZCCT0138	free-living	soil
+B. diazoefficiens SZCCT0139	free-living	soil
+B. diazoefficiens SZCCT0235	free-living	soil
+B. diazoefficiens SZCCT0287	free-living	soil
+B. diazoefficiens SZCCT0340	free-living	soil
+B. diazoefficiens SZCCT0341	free-living	soil
+B. diazoefficiens SZCCT0406	free-living	soil
+B. diazoefficiens SZCCT0423	free-living	soil
+B. diazoefficiens SZCCT0435	non-nodule	Non-leguminous
+B. diazoefficiens SZCCT0440	non-nodule	Non-leguminous
+B. diazoefficiens SZCCT0449	non-nodule	Non-leguminous
+B. diazoefficiens USDA 110	nodule	Glycine max
+B. diazoefficiens USDA 122	nodule	Glycine max
+B. diazoefficiens USDA 122-Bd	nodule	Glycine max
+B. diazoefficiens XF7	nodule	Glycine max
+B. diazoefficiens Y21	nodule	Phaseoleae
+B. diversitatis CNPSo 4019	nodule	Phaseoleae
+B. elkanii 587	nodule	Glycine max
+B. elkanii BLY3-8	nodule	Glycine max
+B. elkanii BLY6-1	nodule	Glycine max
+B. elkanii BR29	nodule	Glycine max
+B. elkanii CCBAU 05737	nodule	Glycine max
+B. elkanii CCBAU 43297	nodule	Glycine max
+B. elkanii NBRC 14791	nodule	Glycine max
+B. elkanii SEMIA 5019	nodule	Glycine max
+B. elkanii SEMIA 587	nodule	Glycine max
+B. elkanii Semia 938	nodule	Genisteae
+B. elkanii SZCCT0424	free-living	soil
+B. elkanii TnphoA 33	Unknown	soil
+B. elkanii UASWS1015	nodule	Other palnt
+B. elkanii USDA 130	Unknown	Other palnt
+B. elkanii USDA 406	Unknown	Other palnt
+B. elkanii USDA 61	nodule	Glycine max
+B. elkanii USDA 76	nodule	Glycine max
+B. elkanii USDA 94	nodule	Glycine max
+B. elkanii WSM2783	nodule	Other Leguminosae
+B. embrapense SEMIA 6208	nodule	Desmodieae
+B. erythrophlei GAS138	free-living	soil
+B. erythrophlei GAS242	free-living	soil
+B. erythrophlei GAS401	free-living	soil
+B. erythrophlei GAS478	free-living	soil
+B. erythrophlei MT12	free-living	soil
+B. forestalis INPA54B	nodule	Other Leguminosae
+B. frederickii CNPSo 3424	nodule	Caesalpinioideae
+B. frederickii CNPSo 3426	nodule	Caesalpinioideae
+B. glycinis CNPSo 4016	nodule	Phaseoleae
+B. guangdongense CCBAU 51649	nodule	Dalbergieae
+B. guangdongense CCBAU 51658	nodule	Dalbergieae
+B. guangdongense CGMCC 1.15034	nodule	Dalbergieae
+B. guangdongense SM32	non-nodule	Non-leguminous
+B. guangdongense XS1150	nodule	Dalbergieae
+B. guangxiense CCBAU 53363	nodule	Dalbergieae
+B. guangzhouense CCBAU 51670	nodule	Dalbergieae
+B. guangzhouense CCBAU 53424	nodule	Dalbergieae
+B. guangzhouense CCBAU 53426	nodule	Dalbergieae
+B. hipponense aSej3	nodule	Genisteae
+B. huanghuaihaiense CGMCC 1.10948	Unknown	Unknown
+B. icense LMTR 13	nodule	Phaseoleae
+B. iriomotense SZCCT0007	free-living	soil
+B. iriomotense SZCCT0346	free-living	soil
+B. ivorense Arg68	nodule	Genisteae
+B. ivorense CI-1B	nodule	Phaseoleae
+B. ivorense CI-41S	nodule	Phaseoleae
+B. japonicum 22	free-living	soil
+B. japonicum 5038	nodule	Glycine max
+B. japonicum 5873	nodule	Glycine max
+B. japonicum CC829	nodule	Other Leguminosae
+B. japonicum CCBAU 15354	nodule	Glycine max
+B. japonicum CCBAU 15517	nodule	Glycine max
+B. japonicum CCBAU 15618	nodule	Glycine max
+B. japonicum CCBAU 25435	nodule	Glycine max
+B. japonicum CCBAU 83623	nodule	Glycine max
+B. japonicum E109	nodule	Glycine max
+B. japonicum FN1	free-living	soil
+B. japonicum in8p8	free-living	soil
+B. japonicum Is-34	nodule	Glycine max
+B. japonicum is5	free-living	soil
+B. japonicum J5	nodule	Glycine max
+B. japonicum NBRC 14783	nodule	Glycine max
+B. japonicum S 204	nodule	Glycine max
+B. japonicum S 340	nodule	Glycine max
+B. japonicum S 370	nodule	Glycine max
+B. japonicum S06B-BJ	nodule	Glycine max
+B. japonicum S10J-BJ	nodule	Glycine max
+B. japonicum SEMIA 5079	nodule	Glycine max
+B. japonicum SEMIA 566	nodule	Glycine max
+B. japonicum SZCCT0148	free-living	soil
+B. japonicum SZCCT0153	free-living	soil
+B. japonicum SZCCT0231	free-living	soil
+B. japonicum SZCCT0280	free-living	soil
+B. japonicum SZCCT0395	free-living	soil
+B. japonicum SZCCT0401	free-living	soil
+B. japonicum SZCCT0402	free-living	soil
+B. japonicum SZCCT0403	free-living	soil
+B. japonicum UBMA197	nodule	Genisteae
+B. japonicum USDA 123	nodule	Glycine max
+B. japonicum USDA 135	nodule	Glycine max
+B. japonicum USDA 38	nodule	Glycine max
+B. japonicum USDA 6	nodule	Glycine max
+B. jicamae PAC68	nodule	Phaseoleae
+B. jicamae SZCCT0215	free-living	soil
+B. jicamae SZCCT0349	free-living	soil
+B. jicamae SZCCT0434	free-living	soil
+B. lablabi CCBAU 23086	nodule	Phaseoleae
+B. lablabi GAS499	free-living	soil
+B. lablabi GAS522	free-living	soil
+B. lablabi MT34	free-living	soil
+B. lablabi SZCCT0009	free-living	soil
+B. lablabi SZCCT0422	free-living	soil
+B. liaoningense CCBAU 05525	nodule	Glycine max
+B. liaoningense CCBAU 83689	nodule	Glycine max
+B. liaoningense CCNWSX0360	nodule	Phaseoleae
+B. liaoningense SZCCT0008	free-living	soil
+B. liaoningense SZCCT0133	free-living	soil
+B. liaoningense SZCCT0154	free-living	soil
+B. liaoningense SZCCT0233	free-living	soil
+B. liaoningense SZCCT0285	free-living	soil
+B. liaoningense SZCCT0293	free-living	soil
+B. liaoningense SZCCT0337	free-living	soil
+B. liaoningense SZCCT0342	free-living	soil
+B. liaoningense SZCCT0347	free-living	soil
+B. liaoningense SZCCT0396	free-living	soil
+B. liaoningense SZCCT0397	free-living	soil
+B. liaoningense SZCCT0399	free-living	soil
+B. liaoningense SZCCT0400	free-living	soil
+B. liaoningense SZCCT0420	free-living	soil
+B. macuxiense BR 10303	nodule	Dalbergieae
+B. macuxiense BR 10355	nodule	Other Leguminosae
+B. manausense BR 3351	nodule	Phaseoleae
+B. manausense SZCCT0118	free-living	soil
+B. manausense SZCCT0344	free-living	soil
+B. manausense SZCCT0345	free-living	soil
+B. manausense SZCCT0412	free-living	soil
+B. manausense SZCCT0421	free-living	soil
+B. manausense SZCCT0433	free-living	soil
+B. mercantei SEMIA 6399	nodule	Other Leguminosae
+B. murdochi WSM 1741	nodule	Phaseoleae
+B. nanningense CCBAU 51757	nodule	Dalbergieae
+B. nanningense CCBAU 53390	nodule	Dalbergieae
+B. neotropicale BR 10247	nodule	Dalbergieae
+B. neotropicale MPMI1	nodule	Phaseoleae
+B. niftali CNPSo 3448	nodule	Caesalpinioideae
+B. nitroreducens TSA1	free-living	soil
+B. oligotrophicum S58	nodule	Dalbergieae
+B. oropedii Pear76	nodule	Other Leguminosae
+B. ottawaense GAS524	free-living	soil
+B. ottawaense L2	nodule	Phaseoleae
+B. ottawaense OO99	nodule	Glycine max
+B. ottawaense SZCCT0046	free-living	soil
+B. ottawaense SZCCT0234	free-living	soil
+B. ottawaense SZCCT0284	free-living	soil
+B. ottawaense SZCCT0286	free-living	soil
+B. ottawaense USDA 4	nodule	Glycine max
+B. pachyrhizi 1040	nodule	Phaseoleae
+B. pachyrhizi BR3262	nodule	Phaseoleae
+B. pachyrhizi PAC 48	nodule	Phaseoleae
+B. paxllaeri LMTR 21	nodule	Phaseoleae
+B. quebecense 12S5	nodule	Glycine max
+B. quebecense 66S1MB	nodule	Glycine max
+B. retamae Ro19	nodule	Genisteae
+B. rifense CTAW71	nodule	Genisteae
+B. sacchari BR 10555	non-nodule	Non-leguminous
+B. sacchari BR 10556	non-nodule	Non-leguminous
+B. sacchari p9-20	non-nodule	Non-leguminous
+B. septentrionale 162S2	nodule	Glycine max
+B. septentrionale 1S1	nodule	Glycine max
+B. shewense ERR11	nodule	Phaseoleae
+B. stylosanthis BR 446	nodule	Dalbergieae
+B. stylosanthis BR 510	nodule	Other Leguminosae
+B. symbiodeficiens 101S1MB	non-nodule	Glycine max
+B. symbiodeficiens 141S2	non-nodule	Glycine max
+B. symbiodeficiens 65S1MB	non-nodule	Glycine max
+B. symbiodeficiens 85S1MB	non-nodule	Glycine max
+B. tropiciagri SEMIA 6148	nodule	Phaseoleae
+B. tropiciagri SZCCT0294	free-living	soil
+B. tropiciagri SZCCT0338	free-living	soil
+B. uaiense UFLA03-164	nodule	Phaseoleae
+B. valentinum LmjM3	nodule	Genisteae
+B. valentinum LmjM6	nodule	Genisteae
+B. vignae ISRA400	nodule	Dalbergieae
+B. vignae LMG 28791	nodule	Dalbergieae
+B. vignae ORS3257	nodule	Phaseoleae
+B. viridifuturi SEMIA 690	nodule	Phaseoleae
+B. viridifuturi SZCCT0047	free-living	soil
+B. viridifuturi SZCCT0052	free-living	soil
+B. viridifuturi SZCCT0101	free-living	soil
+B. viridifuturi SZCCT0108	free-living	soil
+B. viridifuturi SZCCT0127	free-living	soil
+B. viridifuturi SZCCT0135	free-living	soil
+B. viridifuturi SZCCT0136	free-living	soil
+B. viridifuturi SZCCT0140	free-living	soil
+B. yuanmingense 3051	nodule	Phaseoleae
+B. yuanmingense BR3267	nodule	Phaseoleae
+B. yuanmingense BRP09	nodule	Phaseoleae
+B. yuanmingense CCBAU 05623	nodule	Glycine max
+B. yuanmingense CCBAU 10071	nodule	Desmodieae
+B. yuanmingense CCBAU 25021	nodule	Glycine max
+B. yuanmingense CCBAU 35157	nodule	Glycine max
+B. yuanmingense CGMCC 1.3531	Unknown	Unknown
+B. yuanmingense P10 130	nodule	Desmodieae
+B. zhanjiangense CCBAU 51770	nodule	Dalbergieae
+B. zhanjiangense CCBAU 51778	nodule	Dalbergieae
+B. zhanjiangense CCBAU 51781	nodule	Dalbergieae
+B. zhanjiangense CCBAU 51787	nodule	Dalbergieae
